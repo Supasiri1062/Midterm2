@@ -1,0 +1,15 @@
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\bin\Debug\net6.0\สอบๆๆๆๆ.exe
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\bin\Debug\net6.0\สอบๆๆๆๆ.deps.json
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\bin\Debug\net6.0\สอบๆๆๆๆ.runtimeconfig.json
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\bin\Debug\net6.0\สอบๆๆๆๆ.dll
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\bin\Debug\net6.0\สอบๆๆๆๆ.pdb
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.csproj.AssemblyReference.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.AssemblyInfoInputs.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.AssemblyInfo.cs
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.csproj.CoreCompileInputs.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.dll
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\refint\สอบๆๆๆๆ.dll
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.pdb
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\สอบๆๆๆๆ.genruntimeconfig.cache
+C:\Users\MDT1597\Pictures\Jin\รวมไฟล์\สอบๆๆๆๆ\obj\Debug\net6.0\ref\สอบๆๆๆๆ.dll
